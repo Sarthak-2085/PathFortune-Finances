@@ -1,5 +1,7 @@
 # PathFortune Finances
 
+Live link : https://path-fortune-finances.vercel.app/
+
 A full-stack financial analytics platform for small/medium businesses — real-time dashboards, ML-driven forecasting and anomaly detection, a budget/scenario engine, and a grounded GenAI assistant that explains your numbers without ever inventing them.
 
 Built as a final-year AIML project: every "intelligent" feature is backed by an explainable model or a deterministic calculation, not a black box.
