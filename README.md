@@ -122,4 +122,4 @@ Built by a three-person team:
 
 ## License & Ownership
 
-This project was developed as a final-year project in collaboration with **PathFortune Pvt Ltd**. All rights reserved. The code is shared for demonstration and academic evaluation only; it may not be copied, redistributed, or used commercially without permission from the project team and PathFortune Pvt Ltd.
+This project was developed as a final-year project in collaboration with **PathFortune Pvt Ltd**. All rights reserved. The code is shared for demonstration and academic evaluation only; it may not be copied, redistributed, or used commercially without permission from tgit statushe project team and PathFortune Pvt Ltd.
